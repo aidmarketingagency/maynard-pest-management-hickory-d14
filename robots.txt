@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aidmarketingagency.github.io/maynard-pest-management-hickory-d14/sitemap.xml
